@@ -1,0 +1,8 @@
+com\javatechie\spring\soap\api\service\LoanEligibilityService.class
+com\javatechie\spring\soap\api\loaneligibility\Acknowledgement.class
+com\javatechie\spring\soap\api\loaneligibility\CustomerRequest.class
+com\javatechie\spring\soap\api\loaneligibility\package-info.class
+com\javatechie\spring\soap\api\config\SoapWSConfig.class
+com\javatechie\spring\soap\api\emdpoint\LoanEligibilityindicatorEndpoint.class
+com\javatechie\spring\soap\api\SpringBootSopaWsApplication.class
+com\javatechie\spring\soap\api\loaneligibility\ObjectFactory.class
